@@ -5,6 +5,10 @@
  * work well for content-centric websites.
  */
 
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #4f40e2;
@@ -14,7 +18,15 @@
   --ifm-color-primary-light: #c2c8fa;
   --ifm-color-primary-lighter: #c2c8fa;
   --ifm-color-primary-lightest: #c2c8fa;
+  --ifm-navbar-background-color: #070047;
+  --ifm-navbar-link-color: white;
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary-light);
   --ifm-code-font-size: 95%;
+}
+
+*{
+  outline: none;
+  font-family: 'Roboto', sans-serif;
 }
 
 .docusaurus-highlight-code-line {
@@ -22,4 +34,97 @@
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+.navbar__brand img{
+  object-fit: contain;
+}
+
+.navbar__toggle{
+  color: var(--ifm-color-primary-light);
+}
+
+.dsla-search-wrapper{
+  width: 100%;
+  width: 200px;
+  max-width: 100%;
+}
+
+a{
+  text-decoration:none !important;
+}
+
+.navbar__items .navbar__search-input{
+  width: 40vw;
+  max-width: 300px;
+}
+
+.button.button-header{
+  margin: 0 10px;
+  background: var(--ifm-color-primary);
+  border: none;
+}
+
+.navbar__inner, .docs-wrapper, .blog-wrapper{
+  margin: 0 auto;
+  max-width: var(--ifm-container-width);
+  padding: 0 var(--ifm-spacing-horizontal);
+  width: 100%;
+}
+
+.navbar__inner{
+  padding: 0;
+}
+
+
+@media (min-width: 1440px){
+  .navbar__inner{
+    padding: 0 calc(var(--ifm-spacing-horizontal) + 1rem);
+  }
+  .navbar__inner, .docs-wrapper, .blog-wrapper{
+    max-width: var(--ifm-container-width-xl);
+  }
+}
+
+
+@media screen and (max-width: 966px) {
+  .menu__link{
+    color: white;
+    font-size: 18px;
+    padding-left: 10px;
+  }
+
+  .menu__link.navbar__link--active{
+    color: var(--ifm-color-primary-light);
+  }
+  .menu--show{
+    background: var(--ifm-color-primary-darker);
+  }
+
+  .container{
+    padding: 0;
+  }
+}
+
+
+
+/***
+  SEARCH BAR CUSTOM
+***/
+
+.searchBar .navbar__search-input{
+  height: 50px;
+  width: 560px;
+  
+  
+}
+
+.searchBar .navbar__search{
+  color: var(--ifm-color-primary-darker);
+}
+
+@media screen and (max-width: 966px) {
+  .searchBar{
+    display: none;
+  }
 }
