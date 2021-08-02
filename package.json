@@ -9,7 +9,7 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
-    "serve": "docusaurus build && docusaurus serve --port 3003 --host 0.0.0.0",
+    "serve": "docusaurus serve --port 3003 --host 0.0.0.0",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "deploy-pm2": "pm2 start npm --name=centro-ayuda -- run serve"
