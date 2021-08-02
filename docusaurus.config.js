@@ -72,6 +72,7 @@ module.exports = {
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         language: 'es',
+        docsRouteBasePath: '/tutoriales',
         translations: {
           "search_placeholder": "Buscar...",
           "see_all_results": "Ver todos los resultados",
