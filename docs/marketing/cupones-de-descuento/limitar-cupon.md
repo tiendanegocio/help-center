@@ -10,3 +10,4 @@ Lo podés limitar por:
 
 Recordá que es muy importante que hagas promociones de marketing de distintas formas en tu tienda online. La mejor forma de vender es dar a conocer la tienda e incentivar a la gente a que te compre. Dándoles a conocer tus productos, sus beneficios y brindándoles herramientas como los cupones para que finalmente no duden en comprar tus productos.
 
+![](/Fotos/Marketing/CuponesdeDescuento/Cuponesdedescuento3.jpg)

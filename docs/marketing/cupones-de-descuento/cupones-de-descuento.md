@@ -1,3 +1,7 @@
+---
+    sidebar_position: 1
+---
+
 #  ¿Qué es un cupón de descuento?
 
 En Tienda Negocio tenés la posibilidad de crear cupones de descuento promocionales para ofrecerle a tus clientes. 

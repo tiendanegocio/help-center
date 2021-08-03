@@ -24,6 +24,10 @@
   --ifm-code-font-size: 95%;
 }
 
+h1{
+  font-size: var(--ifm-h1-font-size) !important;
+}
+
 *{
   outline: none;
   font-family: 'Roboto', sans-serif;
