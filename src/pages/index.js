@@ -15,7 +15,6 @@ export default function Home() {
         <main>
           <HomepageHero />
           <HomepageFeatures />
-          <HomepageTutorials />
         </main>
     </Layout>
   );

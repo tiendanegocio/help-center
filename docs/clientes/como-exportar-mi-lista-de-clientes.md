@@ -1,3 +1,7 @@
+---
+    sidebar_position: 2
+---
+
 # ¿Cómo exportar mi lista de clientes?
 
 Cada vez que una persona deja su email en la tienda, se guarda en la lista de clientes. 

@@ -7,6 +7,7 @@ const FeatureList = [
   {
     title: 'Productos',
     id: '#configuraciones',
+    url: '/tutoriales/productos/administrar-producto',
     Svg: require('/static/img/home/add-product.svg').default,
     description: (
       <>
@@ -17,6 +18,7 @@ const FeatureList = [
   {
     title: 'Clientes',
     id: '#configuraciones',
+    url: '/tutoriales/clientes/clientes',
     Svg: require('/static/img/home/dashboard.svg').default,
     description: (
       <>
@@ -27,6 +29,7 @@ const FeatureList = [
   {
     title: 'Ventas',
     id: '#gestion-de-ventas',
+    url: '/tutoriales/ventas/ventas-realizadas',
     Svg: require('/static/img/home/transaction.svg').default,
     description: (
       <>
@@ -37,6 +40,7 @@ const FeatureList = [
   {
     title: 'Configuraciones',
     id: '#configuraciones',
+    url: '/tutoriales/configuraciones/general',
     Svg: require('/static/img/home/configuracion.svg').default,
     description: (
       <>
@@ -57,9 +61,13 @@ function scrollTutorial(id){
   })
 }
 
-function Feature({Svg, title, description, id}) {
+function changeRoute(url){
+  window.location.href = url;
+}
+
+function Feature({Svg, title, description, id, url}) {
   return (
-    <div className={styles.card} onClick={()=>{scrollTutorial(id)}}>
+    <div className={styles.card} onClick={()=>{changeRoute(url);}}>
       <div className="text--center">
         <Svg className={styles.featureSvg} alt={title} />
       </div>

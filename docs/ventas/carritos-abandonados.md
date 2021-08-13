@@ -15,4 +15,4 @@ Los carritos abandonados te permitirán llevar un registro de aquellas compras q
 
 En la sección de carritos abandonados podrás ver todas las compras inconclusas, si hacés clic en la lupa podrás ver el detalle de cada carrito. De esta manera podrás enviarle un mail a ese cliente para ver si podés recuperarlo y realizar la venta. 
 
-*Una buena manera de recuperar la venta es enviarle al cliente un descuento para tentarlo a que finalice su compra. Podés incluir en el email el código de un cupón de descuento único, que podrán cargar al momento de realizar el pago.  ***
+*Una buena manera de recuperar la venta es enviarle al cliente un descuento para tentarlo a que finalice su compra. Podés incluir en el email el código de un cupón de descuento único, que podrán cargar al momento de realizar el pago.*

@@ -1,3 +1,7 @@
+---
+    sidebar_position: 1
+---
+
 # ¿Cómo agregar un nuevo cliente?
 
 Si tenés limitada o restringida la compra sólo para ciertos usuarios ¿Cómo agregar un nuevo cliente?
