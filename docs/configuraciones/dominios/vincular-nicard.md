@@ -41,4 +41,4 @@ Presioná el botón Ejecutar Cambios para confirmar la operación.
 
 **El dominio estará activo como máximo en 1 hora.**
 
-Referecia: [https://nic.ar/es/ayuda/instructivos/delegacion-de-dominios]
+Referecia: [https://nic.ar/es/ayuda/instructivos/delegacion-de-dominios](https://nic.ar/es/ayuda/instructivos/delegacion-de-dominios)
