@@ -1,5 +1,5 @@
 ---
-    sidebar_position: 4
+    sidebar_position: 5
 ---
 
 # ¿Cómo delegar tu dominio en nic.ar y derivarlo a tu tienda en Tienda Negocio?
@@ -33,12 +33,10 @@ Ingresá los servidores DNS de Tienda Negocio asignados a tudominio.com.ar
 - **ns2.tiendanegocio.com**
 - **ns3.tiendanegocio.com**
 
-y **guardá los cambios**.
-
-Presioná el botón Ejecutar Cambios para confirmar la operación.
+Una vez hecho ésto, presioná el botón Ejecutar Cambios para confirmar la operación.
 
 
 
-**El dominio estará activo como máximo en 1 hora.**
+**El dominio estará activo como máximo en 2 horas.**
 
 Referecia: [https://nic.ar/es/ayuda/instructivos/delegacion-de-dominios](https://nic.ar/es/ayuda/instructivos/delegacion-de-dominios)

@@ -1,5 +1,5 @@
 ---
-    sidebar_position: 2
+    sidebar_position: 1
 ---
 
 # ¿Qué es un dominio?
@@ -12,7 +12,7 @@ Cuando arrancás y te registrás en Tienda Negocio, automáticamente se genera u
 
 ![](/Fotos/TiendaOnline/Dominios/que-es-un-dominio1.png)
 
-Esta dirección web tiene la frase “.tiendanegocio.com” al final, es decir que tu tienda tiene un dominio específico de TiendaNegocio. Sin embargo, si preferís que se destaque más la identidad de tu marca en tu URL, tenés la posibilidad de adquirir un dominio propio.
+Esta dirección web tiene la frase “.tiendanegocio.com” al final, es decir que tu tienda tiene un dominio específico de Tienda Negocio. Sin embargo, si preferís que se destaque más la identidad de tu marca en tu URL, tenés la posibilidad de adquirir un dominio propio.
 
 Con un dominio propio, la dirección web de tu tienda terminaría con un “.com” o un “.com.ar”, o cualquier otra extensión de dominio que tengas.
 
@@ -20,6 +20,6 @@ Ejemplo de un dominio .com.ar
 
 ![](/Fotos/TiendaOnline/Dominios/que-es-un-dominio2.png)
 
-El dominio, entonces, es la dirección o URL de tu tienda. Es importante aclarar que no existen dos dominios iguales, así que si el dominio que buscás ya está en uso, vas a tener que elegir otro. Por eso, algunas veces, en tu dominio de TiendaNegocio, vas a ver que se agrega un número a la dirección de tu tienda si es que alguien ya tenía esa dirección web. 
+El dominio, entonces, es la dirección o URL de tu tienda. Es importante aclarar que no existen dos dominios iguales, así que si el dominio que buscás ya está en uso, vas a tener que elegir otro. Por eso, algunas veces, en tu dominio de Tienda Negocio, vas a ver que se agrega un número a la dirección de tu tienda si es que alguien ya tenía esa dirección web. 
 
 El dominio es el nombre mediante el cual tus clientes van a identificar, por lo tanto este nombre debe ser fácil de recordar y único.

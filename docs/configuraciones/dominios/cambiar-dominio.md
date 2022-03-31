@@ -1,5 +1,5 @@
 ---
-    sidebar_position: 4
+    sidebar_position: 2
 ---
 
 # ¿Cómo cambiar el dominio de Tienda Negocio?
