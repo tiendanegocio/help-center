@@ -38,4 +38,4 @@ Así que si tenés un dominio con otra extensión (como ".com" o ".net"), vas a 
 
 Entonces, si tenés un dominio con alguna de las terminaciones ".ar", y querés vincularlo con tu tienda, podés hacerlo siguiendo los pasos del tutorial específico que corresponda:
 
-**["¿Cómo configurar mi dominio en Nic.ar?"](/tutoriales/configuraciones/dominios/vincular-nicar)**
+**["¿Cómo configurar mi dominio en Nic.ar?"](/tutoriales/configuraciones/dominios/vincular-nicard)**
