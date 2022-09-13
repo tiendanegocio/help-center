@@ -1,6 +1,6 @@
 ---
-    sidebar_position: 7
-    sidebar_label: Google Shopping
+    sidebar_position: 2
+    sidebar_label: ¿Cómo activar Google Shopping con Tienda Negocio?
 ---
 
 # ¿Cómo activar Google Shopping con Tienda Negocio?
@@ -8,9 +8,7 @@
 ![](/Fotos/Configuraciones/Google-Shopping/google-shopping.jpg)
 
 
-Pasos para empezar a usar el servicio de Google Shopping
-y mostrar tus productos en resultados de búsquedas y 
-anuncios.
+### Pasos para empezar a usar el servicio de Google Shopping y mostrar tus productos en resultados de búsquedas y anuncios.
 
 Google shopping funciona como un shopping virtual de productos  
 dentro de Google. A través de la pestaña de "Shopping" los usuarios 
@@ -47,6 +45,8 @@ forma ordenada.
 
 Si todavía no tenés una, vas a necesitar crear una cuenta en el 🌐
 **[Google Merchant Center](https://www.google.com/retail/solutions/merchant-center/#?modal_active=none)** con los datos de tu negocio. Para eso, podés seguir los pasos del siguiente tutorial:
+
+**[¿Como configurar Google Merchant Center?](/tutoriales/configuraciones/google-shopping/google-shopping-crear)**
 
 ### Vincular el feed de productos de tu tienda con Google Shopping.
 
