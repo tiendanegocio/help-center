@@ -20,7 +20,9 @@ En este tutorial te contamos los pasos para agregar variantes a tus productos. E
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-1.jpg)
 
-**ACLARACIÓN:** Si todavía no tenés tu producto creado, podés comenzar con el tutorial **👉¿Cómo agregar un producto?** y luego seguir los pasos a continuación para asignarle variantes.
+**ACLARACIÓN:** Si todavía no tenés tu producto creado, podés comenzar con el tutorial **[👉¿Cómo agregar un producto?][agregar]** y luego seguir los pasos a continuación para asignarle variantes.
+
+[agregar]:/tutoriales/productos/agregar-producto
 
 3. Ir a la sección "Variantes" y hacer clic en "Agregar variantes".
 
@@ -28,7 +30,7 @@ En este tutorial te contamos los pasos para agregar variantes a tus productos. E
 
 4. Elegir la propiedad que querés crear haciendo clic en el desplegable. La propiedad es el tipo de variante, por ejemplo, puede ser color, talle, material, medida o cualquier otra que necesites para tu producto.
 
-Podés elegir alguna de la lista o crear una nueva.
+    Podés elegir alguna de la lista o crear una nueva.
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-2.jpg)
 
@@ -55,3 +57,32 @@ Desde allí, podés especificar el stock, precio y oferta de cada una. Es deci
 9. Para finalizar, hacer clic en "Guardar cambios" en la parte superior derecha.¡Listo! 🙌
 
 Ya vas a tener tus variantes creadas y las vas a ver reflejadas en tu producto. Podés realizar el mismo procedimiento para el resto de tus productos con variantes o hacerlo con 📝carga masiva vía Excel.
+
+**ACLARACIÓN:** Si bien podés agregar variantes a tus productos por medio de carga masiva, tené en cuenta que:
+- Solo podés agregar variantes a productos nuevos que estés creando con la carga masiva. No van a aplicar en productos ya creados.
+- No es posible eliminar variantes mediante carga masiva vía Excel.
+
+Podés ver más información en nuestro artículo **[👉¿Qué se puede hacer con carga masiva de productos en Excel?.][exel]**
+[exel]:/tutoriales/productos/Que-se-puede-hacer-con-carga-masiva-de-productos-en-Excel
+
+### Eliminar variantes
+
+Si necesitás eliminar una variante, podés hacerlo ingresando al detalle del producto que corresponda y deslizando hasta la sección de Variantes.
+
+Ahí, debés hacer clic sobre la "X" en el valor de propiedad que quieras eliminar. No te olvides de guardar los cambios para que aplique la modificación.
+
+![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-6.jpg)
+
+### Orden de las variantes
+
+Una vez que creaste las variantes de tu producto, el orden en el que se van a mostrar en tu tienda van a depender de:
+- El orden en que están en tu Administrador dentro del detalle del producto
+- Las variantes con stock
+
+Es decir, la primera variante que se haya agregado en el producto es la que se va a mostrar en primer lugar. Sin embargo, si esa variante no tiene stock, se va a mostrar primero la información de la siguiente que sí lo tenga.
+
+En el ejemplo a continuación, debería mostrarse primero la variante "Negro" y su información, pero, como no tiene stock disponible, se va a mostrar el precio correspondiente a la siguiente variante en stock, que es "Blanco" en este caso.
+
+![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-7.jpg)
+
+De esta forma, se evita que el producto se muestre en el listado "Sin stock" porque la primera variante no esté disponible, cuando en realidad hay disponibilidad del producto en otra variante.
