@@ -24,7 +24,7 @@ En este artículo, te explicamos en detalle las acciones que se pueden realizar
 - **Información para Instagram y Google Shopping:** además, también vas a poder completar la información de MPN (si tu producto cuenta con este código), Sexo y Rango de edad, para que al utilizar tu catálogo en Facebook/Instagram y Google Shopping tenga mejor calidad.
 
 ### Lo que no se puede hacer
-- **No se puede borrar productos.** Tenés que borrarlos desde el Administrador de la tienda. Podés ver más información en nuestro artículo **👉No puedo borrar productos con la carga masiva.**
+- **No se puede borrar productos.** Tenés que borrarlos desde el Administrador de la tienda.
 - **No se pueden cargar o modificar imágenes de los productos** aunque hay una forma de hacerlo masivamente desde Google Drive agregando en el nombre de cada foto su SKU y avisarnos para que las subamos masivamente. Sino debés hacerlo desde el Administrador de tu tienda, ingresando a cada producto. 
 - **No se puede borrar campos como las variantes y propiedades de un producto existente.**
 - **Si el producto ya existe, no es posible agregar variantes** (nombres de propiedad) que no vengan predeterminadas.

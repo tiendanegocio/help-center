@@ -9,13 +9,14 @@ La carga masiva de productos en Excel es una herramienta muy útil si tenés una
 
 En este tutorial te contamos los pasos a seguir para descargar el archivo con los campos a completar, hacer las modificaciones y cargarlo en tu Administrador para que impacten los cambios.
 
-Aclaración: Antes de comenzar con la carga masiva es importante que visites este tutorial **👉¿Qué se puede hacer con carga masiva de productos en Excel?**, para saber si esta opción es útil para las modificaciones que quieras hacer.
-
+Aclaración: Antes de comenzar con la carga masiva es importante que visites este tutorial **[👉¿Qué se puede hacer con carga masiva de productos en Excel?][cargamasiva]**, para saber si esta opción es útil para las modificaciones que quieras hacer.
+[cargamasiva]:/tutoriales/productos/Que-se-puede-hacer-con-carga-masiva-de-productos-en-Excel
 Tené en cuenta que es posible usar la carga masiva para importar imágenes de tus productos. Lo podés hacer subiendo las fotos a un Google Drive y que el nombre de cada foto sea su SKU. Una vez realizado debes contactarnos y avisarnos así hacemos la subida masiva nosotros. 
 
 - **IMPORTANTE:** La carga masiva solo permite cargar y modificar productos, no es posible utilizarla para borrar campos (como categorías ya asociadas a productos) o eliminar productos.
 - Debés tener al menos un producto cargado desde el Administrador de tu tienda antes de hacer una carga con Excel, para poder entender mejor cómo funciona a partir del ejemplo del producto cargado, y así evitar errores. Esta carga piloto debe ser lo más completa posible e incluir variantes, categorías, etc.
-- Si tenés una gran cantidad de productos y variantes, mirá el tutorial **👉¿Cómo subo una gran cantidad de productos?**.
+- Si tenés una gran cantidad de productos y variantes, mirá el tutorial **[👉¿Cómo subo una gran cantidad de productos?][subir]**.
+[subir]:/tutoriales/productos/como-cargar-una-cantidad-de-productos
 - La carga masiva no puede realizarse desde un celular. Únicamente en una computadora.
 
 A continuación, te detallamos los pasos a seguir:
@@ -36,7 +37,8 @@ Aclaración: Si usás formato especial para tus descripciones, como negrita, cur
 
 Tené en cuenta los siguientes puntos:
 - **IMPORTANTE:** Si de los productos que tenías cargados, ya tenés al menos uno con variantes, el Excel se va a descargar con variantes y, por lo tanto, va a tener más columnas.
-- Si ninguno de tus productos tenía variantes, el archivo de Excel se va a descargar sin variantes (no va a tener esas columnas), por lo tanto no vas a poder cargar de manera masiva productos con estas características. Para poder hacerlo, subí primero un producto con variantes **👉¿Qué son las variantes y cómo configurarlas en mis productos?**.
+- Si ninguno de tus productos tenía variantes, el archivo de Excel se va a descargar sin variantes (no va a tener esas columnas), por lo tanto no vas a poder cargar de manera masiva productos con estas características. Para poder hacerlo, subí primero un producto con variantes **[👉¿Qué son las variantes y cómo configurarlas en mis productos?][variantes]**.
+[variantes]:/tutoriales/productos/Qué-son-las-variantes-y-cómo-configurarlas-en-mis-productos
 - De tener configurado un medio de envío con los cuales tenemos integración, el archivo de Excel se descargará también con las columnas para poder cargar de manera masiva las dimensiones (largo, ancho, alto) de tus productos.
 - De no tener ninguno configurado (o de tener solo medios de envío personalizados), el Excel no se va a descargar con las columnas de las dimensiones
 3. Abrir el archivo descargado y completar cada campo con los datos de tus productos. Cada producto tendrá tantas filas como combinación de variantes tenga. 

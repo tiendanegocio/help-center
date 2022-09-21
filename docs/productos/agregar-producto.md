@@ -26,8 +26,8 @@ Para agregar un producto tenés que ingresar al Panel de tu tienda e ir a **Prod
 
     ![](/Fotos/Productos/AgregarProducto/agregarproductos2.jpg)
 
-4. Agregá una categoría y/o subcategoría a tu producto. Si ya creaste una categoría o subcategoría sólo deberás seleccionarla y listo, tu producto ya estará dentro. ¿No sabés cómo crearlas? Lee el artículo sobre **Categorías. (link al artículo).**
-
+4. Agregá una categoría y/o subcategoría a tu producto. Si ya creaste una categoría o subcategoría sólo deberás seleccionarla y listo, tu producto ya estará dentro. ¿No sabés cómo crearlas? Lee el artículo sobre **[Categorías.][categoria]**
+[categoria]:/tutoriales/categorias/que-es-una-categoria
 5. Este es un paso muy importante ya que será clave a la hora de que tus clientes calculen el costo de envío en la tienda. Siempre que cargues un producto, deberás completar su peso y medidas. 
 
     En caso de que no lo hagas, nuestra plataforma tomará por defecto el peso de tus productos como 0 Kg. 
