@@ -9,10 +9,15 @@ Una variante es una versión del mismo producto que resulta de combinación entr
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-8.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **TIP:** Si buscás crear variantes para tus productos con carga masiva vía Excel, primero tenés que crear alguna manualmente, y luego podés seguir con el tutorial **[👉¿Cómo modificar los productos con carga masiva?][tutorial1]**
 [tutorial1]:/tutoriales/productos/Como-modificar-los-productos-con-carga-masiva
 
-En este tutorial te contamos los pasos para agregar variantes a tus productos. En la parte inferior también te contamos cómo eliminarlas, en caso de que necesites.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+### En este tutorial te contamos los pasos para agregar variantes a tus productos. En la parte inferior también te contamos cómo eliminarlas, en caso de que necesites.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Agregar variantes
 1.  Ingresar a Productos > Administrar Productos dentro del Administrador de tu tienda.
@@ -20,11 +25,15 @@ En este tutorial te contamos los pasos para agregar variantes a tus productos. E
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-1.jpg)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **ACLARACIÓN:** Si todavía no tenés tu producto creado, podés comenzar con el tutorial **[👉¿Cómo agregar un producto?][agregar]** y luego seguir los pasos a continuación para asignarle variantes.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 
 [agregar]:/tutoriales/productos/agregar-producto
 
-3. Ir a la sección "Variantes" y hacer clic en "Agregar variantes".
+3. Ir a la sección "Variantes" y hacer clic en "Activar variantes".
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-3.jpg)
 
@@ -39,24 +48,30 @@ En este tutorial te contamos los pasos para agregar variantes a tus productos. E
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-4.jpg)
 
 **ACLARACIÓN:** Te recomendamos evitar caracteres especiales en los nombres de los valores y de las propiedades para prevenir errores, especialmente el uso de comillas (" ").
-
 Además, no es posible agregar el número "0" como valor de propiedad. En ese caso podés escribirlo como texto ("Cero") o con la letra "O".
 
-6. Podés agregar hasta 3 propiedades diferentes para cada producto, haciendo clic en "+ Nueva propiedad".
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+6. Podés agregar hasta 3 Variantes diferentes para cada producto, haciendo clic en "Agregar otra variante".
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 **IMPORTANTE** Tené en cuenta que es posible agregar hasta 3 propiedades y no hay limitaciones en las combinaciones de variantes por producto.
 
-7. Una vez que termines de agregar las variantes que quieras, hacer clic en el botón "¡Genial!".
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-8. En el detalle del producto, vas a ver una sección de "Variantes creadas" más abajo. 
+7. En el detalle del producto, vas a ver una sección de "Variantes creadas" más abajo. 
 
 Desde allí, podés especificar el stock, precio y oferta de cada una. Es decir que variantes de un mismo producto pueden tener precios diferentes, así como podés manejar el stock de cada variante por separado.
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-5.jpg)
 
-9. Para finalizar, hacer clic en "Guardar cambios" en la parte superior derecha.¡Listo! 🙌
 
-Ya vas a tener tus variantes creadas y las vas a ver reflejadas en tu producto. Podés realizar el mismo procedimiento para el resto de tus productos con variantes o hacerlo con 📝carga masiva vía Excel.
+8. Para finalizar, hacer clic en "Guardar cambios" en la parte superior derecha.¡Listo! 🙌
+
+Ya vas a tener tus variantes creadas y las vas a ver reflejadas en tu producto. Podés realizar el mismo procedimiento para el resto de tus productos con variantes o hacerlo con [📝carga masiva vía Excel.][exel]
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 **ACLARACIÓN:** Si bien podés agregar variantes a tus productos por medio de carga masiva, tené en cuenta que:
 - Solo podés agregar variantes a productos nuevos que estés creando con la carga masiva. No van a aplicar en productos ya creados.
@@ -64,6 +79,8 @@ Ya vas a tener tus variantes creadas y las vas a ver reflejadas en tu producto. 
 
 Podés ver más información en nuestro artículo **[👉¿Qué se puede hacer con carga masiva de productos en Excel?.][exel]**
 [exel]:/tutoriales/productos/Que-se-puede-hacer-con-carga-masiva-de-productos-en-Excel
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Eliminar variantes
 
@@ -73,6 +90,7 @@ Ahí, debés hacer clic sobre la "X" en el valor de propiedad que quieras elimin
 
 ![](/Fotos/Productos/QueSonLasVariantes/como-agregar-talle-6.jpg)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 ### Orden de las variantes
 
 Una vez que creaste las variantes de tu producto, el orden en el que se van a mostrar en tu tienda van a depender de:
