@@ -21,7 +21,10 @@
 
     ![](/Fotos/Productos/CategorizaProductos/Categorizatusproductos3.jpg)
 
-    **Importante.** *Recordá que para que la subcategoría se agregue correctamente a la categoría que le corresponde (en este ejemplo “Ropa”) debés cliquear, cada vez, en la sección de “Ropa”, de lo contrario estarás agregando subcategorías dentro de otra subcategoría. *
+-----------------------------------------------------------------------------------------------------------------------------------------
+**Importante:** *Recordá que para que la subcategoría se agregue correctamente a la categoría que le corresponde (en este ejemplo “Ropa”) debés cliquear, cada vez, en la sección de “Ropa”, de lo contrario estarás agregando subcategorías dentro de otra subcategoría. *
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 
 

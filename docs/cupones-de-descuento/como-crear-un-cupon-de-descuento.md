@@ -12,6 +12,9 @@ Si ya creaste un cupón en el pasado verás la opción "Crear Cupones +".
 
 Una vez que estés dentro tenés que agregar un nombre al cupón. (Cómo en la imagen donde dice Código Ejemplo. Luego en tipo de cupón “Porcentaje del total de la compra” y luego más abajo el porcentaje de descuento. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **Aclaración importante:** El % de descuento solo va a aplicarse solo sobre el valor de los productos. No se aplica sobre el costo de envío.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ![](/Fotos/Marketing/CuponesdeDescuento/Cuponesdedescuento2.jpg)

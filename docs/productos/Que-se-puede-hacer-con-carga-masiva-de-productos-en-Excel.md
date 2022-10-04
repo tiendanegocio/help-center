@@ -1,7 +1,7 @@
 ---
     sidebar_position: 5
 ---
-# Qué se puede hacer con carga masiva de productos en Excel?
+# ¿Qué se puede hacer con carga masiva de productos en Excel?
 
 ### Lo que se puede y no se puede hacer a través de la importación y exportación masiva de productos
 

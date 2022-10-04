@@ -28,7 +28,7 @@ Para agregar categorías de productos como botones de tu menú, podés seguir es
 4. Hacer clic en "Agregar link".
 
 ![](/Fotos/Categoria/agregarUnaCategoriAlMenu/Agregar-Subcategorias-al-menu-3.jpg)
-### ¡Genial! 🙌
+**¡Genial! 🙌**
 Ya se va a mostrar la categoría elegida como un botón del menú principal de navegación.
 
 Si necesitás agregar más categorías al menú principal, podés repetir el mismo procedimiento.
@@ -41,7 +41,8 @@ Si, además, querés que el botón "Productos" no se muestre en el menú para 
 2. Buscar la opción "Productos" que aparece por defecto en Menú Principal y hacer clic en "Eliminar" a la derecha.
 
 ![](/Fotos/Categoria/agregarUnaCategoriAlMenu/Agregar-Subcategorias-al-menu-4.jpg)
-### ¡Genial! 🙌
+
+**¡Genial! 🙌**
 Ya no se va a mostrar el botón "Productos" en el menú principal de la barra de navegación de tu tienda.
 
 Podés volver a agregarlo cuando quieras, siguiendo los pasos para agregar una categoría, pero eligiendo la opción de "Todas".

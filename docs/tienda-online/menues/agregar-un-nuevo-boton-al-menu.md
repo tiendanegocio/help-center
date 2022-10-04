@@ -6,7 +6,7 @@
 
 Te va a ser útil para agregar un botón que apunte a una página ya existente, sea dentro como fuera de tu tienda. 
 
-1. Clic en Crear un nuevo link
+1. Clic en "agregar link"
 
 ![](/Fotos/TiendaOnline/Menues/agregar-un-nuevo-boton-al-menu1.png)
 

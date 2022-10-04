@@ -12,10 +12,10 @@ En este menú vas a ver que se despliegan ***las categorías y subcategorías**
 #### ¿Cómo cambiar los submenúes que aparecen dentro del botón "Productos"?
 Para cambiar todo lo que esté dentro de este menú, solo tenés que cambiar las categorías de tu tienda.
 
-Te recomendamos ver todos nuestros tutoriales sobre esto desde **👉Categorías: ¿Cómo organizar mis productos?** 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 **TIP:** Te recomendamos mantener la cantidad de niveles en una subcategoría de hasta 3 para que el menú no sea demasiado grande.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 ### ¿Cómo sacar el botón "Productos" y mostrar los menúes de productos de forma distinta a la predeterminada?
 
 Si querés, podés cambiar cómo se muestra el menú de tus productos eliminando este botón y creando otros distintos. 
@@ -43,6 +43,8 @@ Una vez que tenés todo ordenado, podés ir a tu Tienda Negocio > Menúes y ap
 
 5. Hacer clic en "Agregar link". Listo **¡Genial!**
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 Aclaración: Ahora solo tenés que hacer lo mismo para cada uno de los botones que quieras agregar en el menú.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 

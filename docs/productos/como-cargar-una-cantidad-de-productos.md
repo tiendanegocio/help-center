@@ -20,8 +20,11 @@ El procedimiento que te sugerimos hacer es:
 3. Cargar el siguiente archivo, y así sucesivamente.
 
 Para saber cómo realizar la carga masiva vía Excel, podés seguir nuestro tutorial:
+[**Cómo modificar los productos de forma masiva**][masiva]
+[masiva]:/tutoriales/productos/Como-modificar-los-productos-con-carga-masiva
 
-Cómo modificar los productos de forma masiva (link)
-### TIP:
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-Te recomendamos hacer una copia del archivo que descargues desde tu Administrador antes de hacer modificaciones en el mismo. De esa forma vas a tener un archivo como backup o respaldo en caso de que necesites volver atrás alguna actualización de productos.
+**TIP:** Te recomendamos hacer una copia del archivo que descargues desde tu Administrador antes de hacer modificaciones en el mismo. De esa forma vas a tener un archivo como backup o respaldo en caso de que necesites volver atrás alguna actualización de productos.
+
+-----------------------------------------------------------------------------------------------------------------------------------------

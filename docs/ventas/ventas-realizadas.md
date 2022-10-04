@@ -9,7 +9,6 @@ En la sección de “Ventas realizadas” verás un resumen de todas tus ventas.
 ![](/Fotos/Ventas/Ventas1.jpg)
 
 Al hacer clic en la lupa que se encuentra al lado de cada venta podrás ver más información como:
-
 - Datos del comprador
 - El método de entrega que eligió
 - Los datos de quien lo recibirá

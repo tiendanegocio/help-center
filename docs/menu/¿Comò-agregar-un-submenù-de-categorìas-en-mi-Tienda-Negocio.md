@@ -22,7 +22,10 @@ En este tutorial te contamos los pasos para configurar esta segunda opción.
 
 ### ¡Ahora vamos a ver los pasos!
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **ACLARACIÓN:** Tené en cuenta que para seguir estos pasos, necesitás tener categorías previamente creadas. Para esto, podés seguir **[📝¿Cómo crear categorías de productos?.][categoria]**
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 [categoria]:/tutoriales/categorias/Como-asociar-mis-productos-a-una-categoría
 
 1. Ingresar a Mi Tienda Negocio > Menúes en el Administrador de tu tienda.
@@ -41,7 +44,7 @@ En este tutorial te contamos los pasos para configurar esta segunda opción.
 
 ![](/Fotos/menu/subMenu/subMenu8.jpg)
 
-5. Escribir el nombre de la categoría. En **"Apunta A"** elegir **"Categorías"** y seleccionar la categoría de productos a la que quieras que dirija. Luego, hacer clic en **"Agregar nuevo link".** 
+5. Escribir el nombre de la categoría. En **"Apunta A"** elegir **"Categorías"** y seleccionar la categoría de productos a la que quieras que dirija. Luego, hacer clic en **"Agregar link".** 
 
 ![](/Fotos/menu/subMenu/subMenu9.jpg)
 
@@ -57,8 +60,6 @@ En este tutorial te contamos los pasos para configurar esta segunda opción.
 
 ![](/Fotos/menu/subMenu/subMenu2.jpg)
 
-### ¡Genial! 🙌
+**¡Genial! 🙌**
 
 Ya quedó configurado el submenú dentro del menú de navegación, como en el ejemplo que te mostramos más arriba. Además que podés agregar diferentes submenúes de categorías.
-
-**💡Info:** Si además querés agregar un submenú con tus páginas de contenido, podés seguir los pasos de nuestro tutorial 👉¿Cómo agregar un submenú de páginas?.**(falta link)**

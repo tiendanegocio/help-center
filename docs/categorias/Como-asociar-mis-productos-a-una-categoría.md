@@ -15,7 +15,11 @@ Si tenés varios tipos de productos en tu tienda, es importante que los organic
 
 En este tutorial, te contamos cómo asociar tus productos a categorías con las tres opciones.
 
-**Pasos para asignar categorías a los productos**
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+### Pasos para asignar categorías a los productos
+
+-----------------------------------------------------------------------------------------------------------------------------------------
  ### A) Desde el detalle del producto:
  Con esta opción, podés agregar productos a categorías uno a uno, desde el detalle.
 1. Ir a Productos > Administrar productos dentro del Administrador de tu tienda.
@@ -57,19 +61,19 @@ Por último, hacer clic arriba a la derecha en "Guardar cambios".
 
 Por ejemplo, si en tu tienda existe la categoría "Collar" que contiene a la subcategoría "Oro" y asociás esta última a un producto, ese producto va a estar tanto en "Collar" como en "Collar > Oro", y no podés desasociarlo del primero sin hacerlo del segundo.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 ### B) Con la carga masiva de productos en Excel:
 
 Esta es otra alternativa para asignar productos a categorías masivamente. Es ideal si ya utilizás la funcionalidad de carga masiva para modificar tus productos.
 
-1. Para usar la carga masiva de Excel, descargar primero la planilla desde el Administrador de tu tienda, siguiendo los pasos de este tutorial:
-
-**[¿Cómo modificar los productos de forma masiva?][tutorial]**
+1. Para usar la carga masiva de Excel, descargar primero la planilla desde el Administrador de tu tienda, siguiendo los pasos de este tutorial: **[¿Cómo modificar los productos de forma masiva?][tutorial]**
 [tutorial]: /tutoriales/productos/Como-modificar-los-productos-con-carga-masiva
 
 2. Una vez dentro de la planilla, buscar los productos que quieras categorizar y escribir los nombres de sus respectivas categorías en la columna de "Categorías".
 
-![](/Fotos/Categoria/asociarMisProductosaUnaCategoria/Como-asociar-mis-productos-a-una-categoria-6.jpg)  
+    ![](/Fotos/Categoria/asociarMisProductosaUnaCategoria/Como-asociar-mis-productos-a-una-categoria-6.jpg)  
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **IMPORTANTE 💥:** Recordá siempre el nombre de la categoría para copiarlo y pegarlo exactamente igual en todos los productos que pertenezcan a la misma para que no se dupliquen.
 
 Si querés, podés asignarlos a subcategorías específicas de la siguiente manera: Remeras>Ofertas, donde la categoría madre es "Extractores" y la subcategoría es "Ofertas".
@@ -78,18 +82,21 @@ Incluso, podés incluir subcategorías dentro de subcategorías, como en el ejem
 
 ![](/Fotos/Categoria/asociarMisProductosaUnaCategoria/Asignar-Categoria-a-un-producto-7.jpg)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **TIP 💡:** Si querés asignar tus productos a más de una categoría, necesitás separar cada categoría con una coma, como en el ejemplo Remeras>Ofertas, Pantalones>Ofertas.
 
 **ACLARACION 📣:** Si el nombre de la categoría lleva el carácter coma (,) o mayor (>) tenés que colocar el carácter barra inversa (\) antes de alguno de esos caracteres mencionados. Por ejemplo, si el nombre de la subcategoría es "Pantalones, Bermudas y Shorts", tenés que escribirla de la siguiente forma: Ropa>Pantalones\, Bermudas y Shorts.
 
-3. Guardar el archivo con formato .csv y volver a importarlo en el Administrador de tu tienda, siguiendo los pasos del siguiente tutorial **👉[¿Cómo utilizar la carga masiva de productos?.][tutorial2]**
-[tutorial2]:/tutoriales/productos/como-cargar-una-cantidad-de-productos 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-Una vez que el Excel esté subido, ya vas a tener los productos dentro de las categorías que elegiste.
+3. Guardar el archivo con formato .csv y volver a importarlo en el Administrador de tu tienda, siguiendo los pasos del siguiente tutorial **👉[¿Cómo utilizar la carga masiva de productos?.](/tutoriales/productos/como-cargar-una-cantidad-de-productos )**
+    Una vez que el Excel esté subido, ya vas a tener los productos dentro de las categorías que elegiste.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 **TIP 💡:** Si quisieras asociar el producto a una categoría que todavía no creaste, podés agregarla como de esta misma forma y al cargar el archivo a tu Administrador, la categoría nueva se va a crear.
 
-### ¡Listo! 🙌
+-----------------------------------------------------------------------------------------------------------------------------------------
+**¡Listo! 🙌**
 Ya vas a tener los productos agregados a tus categorías. Así, tus clientes van a poder encontrarlos más fácilmente dentro de tu tienda.
 
 **Desasociar un producto de una categoría**
