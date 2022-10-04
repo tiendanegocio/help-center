@@ -8,6 +8,5 @@ Lo podés limitar por:
 - **Fecha:** Podes hacer una promoción de cupones por un periodo. Ejemplo: Haces una promo con los cupones solo para la semana de la dulzura. Una vez que termina la promo, los cupones ya no se pueden usar porque tenían fecha límite. 
 
 Recordá que es muy importante que hagas promociones de marketing de distintas formas en tu tienda online. La mejor forma de vender es dar a conocer la tienda e incentivar a la gente a que te compre. Dándoles a conocer tus productos, sus beneficios y brindándoles herramientas como los cupones para que finalmente no duden en comprar tus productos.
-<p style = 'text-align:center;'>
+
 ![](/Fotos/Marketing/CuponesdeDescuento/Cuponesdedescuento3.jpg)
-</p>
