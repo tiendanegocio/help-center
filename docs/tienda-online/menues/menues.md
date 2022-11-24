@@ -13,7 +13,7 @@ Cómo administrar el menú para que tus clientes puedan navegar tu tienda de man
 Hay algunos botones que ya vienen predeterminados en el menú: son los de "Inicio", "Productos" y "Contacto"
 
 - Inicio: es simplemente para volver al inicio o "home" de la tienda.
-- Categorías: incluye a todas las Categorías de tu tienda. Leer más [👉¿Qué es y cómo editar el botón de Categorías del menú?.](/tutoriales/menu/¿Què-es-y-còmo-edio-el-botòn-de-Productos-en-el-menù)
+- Categorías: incluye a todas las Categorías de tu tienda. Leer más [👉¿Qué es y cómo editar el botón de Categorías del menú?.](/tutoriales/categorias/como-agregar-una-categoria-en-el-menu)
 - Contacto: página con tu información de contacto y un formulario.
 
 Existe la posibilidad de agregar o quitar botones, o simplemente modificar su orden de aparición.
